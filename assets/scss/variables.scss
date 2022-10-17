@@ -1,0 +1,45 @@
+/*
+Template Name: Boster Template
+Author: PSD2ALLCONVERSION
+Email: psd2allconversion@gmail.com
+File: Main Style
+*/
+
+/*
+- Font Family Import
+- Font Family
+- Color Variables
+- Top Header
+- Menu Control
+- Common Css
+- Page Loader
+- Section
+- Slider
+- About Us
+- Services
+- Work
+- Team
+- Testimonails
+- CTA
+- Contact
+- Footer
+- Back to top
+*/
+
+
+/* Font Family Import */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+$body-font:  'Raleway', sans-serif;
+
+/* Color Variables */
+:root {  
+    --primarycolor: #2c3a4b;
+    --secondarycolor: #74ad72;
+    --tritorycolor: #d72a53;
+    --bodycolor: #28303a;
+    --bodybackground: #fff;
+    --bordercolor: rgba(0, 0, 0, 0.1);    
+}
+
